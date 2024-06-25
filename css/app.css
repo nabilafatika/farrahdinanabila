@@ -30,14 +30,14 @@ body {
     height: auto;
     width: 100%;
 }
-
+/* 
 .btn-music {
     position: fixed;
     bottom: 11vh !important;
     right: 2vh !important;
     z-index: 1055 !important;
 }
-
+ */
 .btn-theme {
     position: fixed;
     bottom: 21vh !important;
